@@ -6,5 +6,7 @@
 .contact-label{display:inline-block}
 .contact-arrow{margin-left:auto;font-size:24px}
 .hero-art{height:auto;aspect-ratio:2 / 3;max-height:none;background:var(--orange)}
+.hero h1{font-size:clamp(48px,6vw,92px);max-width:680px}
+.hero-art{width:min(100%,460px);justify-self:center}
 .project-visual,.project-large .project-visual{height:270px}
-@media(max-width:760px){.contact h2{font-size:clamp(54px,15vw,86px)}.contact-email{font-size:clamp(15px,4.5vw,20px);gap:10px}.contact-icon{width:22px;height:22px;flex-basis:22px}.contact-arrow{font-size:20px}.project-visual,.project-large .project-visual{height:68vw;min-height:210px;max-height:300px}}
+@media(max-width:760px){.hero h1{font-size:9vw;max-width:100%}.hero-art{width:100%}.contact h2{font-size:clamp(54px,15vw,86px)}.contact-email{font-size:clamp(15px,4.5vw,20px);gap:10px}.contact-icon{width:22px;height:22px;flex-basis:22px}.contact-arrow{font-size:20px}.project-visual,.project-large .project-visual{height:68vw;min-height:210px;max-height:300px}}
