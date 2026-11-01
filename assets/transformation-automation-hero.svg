@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Transformation and process automation</title>
+  <desc id="desc">An abstract workflow with connected process nodes moving from complexity to clarity.</desc>
+  <rect width="1200" height="900" fill="#f06b4f"/>
+  <circle cx="890" cy="228" r="190" fill="#f5e9d4"/>
+  <path d="M96 615C240 505 312 735 462 586S690 370 812 505s180 78 292-38" fill="none" stroke="#171717" stroke-width="18" stroke-linecap="round"/>
+  <path d="M110 615C253 510 312 742 466 588S688 374 814 510s184 77 288-43" fill="none" stroke="#f2c94c" stroke-width="8" stroke-dasharray="14 18" stroke-linecap="round"/>
+  <g stroke="#171717" stroke-width="8">
+    <circle cx="108" cy="615" r="42" fill="#f2c94c"/>
+    <circle cx="462" cy="586" r="54" fill="#3867d6"/>
+    <circle cx="812" cy="505" r="46" fill="#f5e9d4"/>
+    <circle cx="1090" cy="462" r="58" fill="#3867d6"/>
+  </g>
+  <path d="M880 225h20M890 215v20" stroke="#171717" stroke-width="8" stroke-linecap="round"/>
+  <rect x="86" y="92" width="270" height="82" rx="41" fill="#171717"/>
+  <text x="221" y="145" fill="#f5e9d4" font-family="Arial, sans-serif" font-size="25" font-weight="700" text-anchor="middle" letter-spacing="2">FROM → TO</text>
+  <path d="M1030 760h80M1070 720v80" stroke="#171717" stroke-width="9" stroke-linecap="round"/>
+</svg>
